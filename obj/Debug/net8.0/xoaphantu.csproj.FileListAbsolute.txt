@@ -1,0 +1,14 @@
+E:\hoctap\xoaphantu\bin\Debug\net8.0\xoaphantu.exe
+E:\hoctap\xoaphantu\bin\Debug\net8.0\xoaphantu.deps.json
+E:\hoctap\xoaphantu\bin\Debug\net8.0\xoaphantu.runtimeconfig.json
+E:\hoctap\xoaphantu\bin\Debug\net8.0\xoaphantu.dll
+E:\hoctap\xoaphantu\bin\Debug\net8.0\xoaphantu.pdb
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.AssemblyInfoInputs.cache
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.AssemblyInfo.cs
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.csproj.CoreCompileInputs.cache
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.dll
+E:\hoctap\xoaphantu\obj\Debug\net8.0\refint\xoaphantu.dll
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.pdb
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.genruntimeconfig.cache
+E:\hoctap\xoaphantu\obj\Debug\net8.0\ref\xoaphantu.dll

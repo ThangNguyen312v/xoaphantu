@@ -12,3 +12,4 @@ E:\hoctap\xoaphantu\obj\Debug\net8.0\refint\xoaphantu.dll
 E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.pdb
 E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.genruntimeconfig.cache
 E:\hoctap\xoaphantu\obj\Debug\net8.0\ref\xoaphantu.dll
+E:\hoctap\xoaphantu\obj\Debug\net8.0\xoaphantu.sourcelink.json

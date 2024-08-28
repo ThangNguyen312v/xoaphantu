@@ -12,20 +12,20 @@ namespace xoaphantu{
             }
         }
         static int[] Xoaso(int[] nuMs,int n){
-          int index_del = Array.IndexOf(nuMs, n) ;
-          if(index_del != -1)
-          {
-            int[] numS = new int[nuMs.Length - 1];
-
-            Array.Copy(nuMs, 0, numS, 0, index_del);
-            Array.Copy(nuMs, index_del + 1, numS, index_del, nuMs.Length - index_del - 1);
-
-            return numS;
-          }
-          else
-          {
+            int index_del = -1;
+            for (int i = 0; i < nuMs.Length; i++)
+            {
+                if (nuMs[i] == n)
+                {
+                    index_del = i;
+                    break;
+                }
+            }
+            for (int i = index_del; i < nuMs.Length - 1; i++)
+            {
+                nuMs[i] = nuMs[i + 1];
+            }
             return nuMs;
-          }
         }
     }
 }

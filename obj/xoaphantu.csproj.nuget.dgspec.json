@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\hoctap\\xoaphantu\\xoaphantu.csproj": {}
+    "E:\\hoctap\\xoaphantu\\xoaphantu.csproj": {}
   },
   "projects": {
-    "e:\\hoctap\\xoaphantu\\xoaphantu.csproj": {
+    "E:\\hoctap\\xoaphantu\\xoaphantu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\hoctap\\xoaphantu\\xoaphantu.csproj",
+        "projectUniqueName": "E:\\hoctap\\xoaphantu\\xoaphantu.csproj",
         "projectName": "xoaphantu",
-        "projectPath": "e:\\hoctap\\xoaphantu\\xoaphantu.csproj",
+        "projectPath": "E:\\hoctap\\xoaphantu\\xoaphantu.csproj",
         "packagesPath": "C:\\Users\\tatth\\.nuget\\packages\\",
-        "outputPath": "e:\\hoctap\\xoaphantu\\obj\\",
+        "outputPath": "E:\\hoctap\\xoaphantu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tatth\\AppData\\Roaming\\NuGet\\NuGet.Config"
